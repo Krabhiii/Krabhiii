@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krabhiii
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning dsa with java...
-- 💞️ I’m looking to collaborate on best coders to inhance my skill
+- 🌱 I’m currently learning full stack web development
+- 💞️ I’m looking to collaborate with the best coders to enhance my skills
 - 
 - 📫 How to reach me ..abhishek.ssr2004@gmail.com.
 - 😄 Pronouns: ..avi.
